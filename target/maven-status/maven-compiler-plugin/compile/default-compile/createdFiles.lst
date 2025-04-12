@@ -1,0 +1,6 @@
+gr\aueb\cf\helloapp\controller\DateController.class
+gr\aueb\cf\helloapp\controller\InspectRequestController.class
+gr\aueb\cf\helloapp\controller\TeachersViewController.class
+gr\aueb\cf\helloapp\model\Teacher.class
+gr\aueb\cf\helloapp\HelloApplication.class
+gr\aueb\cf\helloapp\rest\HelloRestController.class
